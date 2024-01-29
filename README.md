@@ -1,8 +1,8 @@
-# ** MSO_E5_Dev_AutoRenew ** 
+#  ** MSO_E5_Dev_AutoRenew  ** 
 
 MSO_E5_Dev_AutoRenew is a Python application based on Git Actions that uses Microsoft Graph API to activate Microsoft Office 365 E5 Developer Trail membership auto-renewal automatically. This guide will provide you with easy-to-understand steps for setting up and running the application.
 
-### Special Notes/Thanks ###
+###  Special Notes/Thanks ###
 * Normal version address: [https://github.com/kylierst/MSO_E5_Dev_AutoRenew_REVISION_2](https://github.com/kylierst/MSO_E5_Dev_AutoRenew)
 * Thanks to Ken5998 for code improvements and fix job skipping
 
@@ -13,7 +13,7 @@ MSO_E5_Dev_AutoRenew is a Python application based on Git Actions that uses Micr
 - An Azure Portal account
 - Basic knowledge of GitHub, Python, and Azure Portal
 
-## **Setup Steps (Encrypted Secure Version)**
+##  **Setup Steps (Encrypted Secure Version)**
 
 1. Fork the MSO_E5_Dev_AutoRenew repository to your GitHub account.
 2. Register a new application in Azure Active Directory.
