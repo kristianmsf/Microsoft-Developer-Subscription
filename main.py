@@ -70,7 +70,6 @@ def main():
     localtime = time.asctime(time.localtime(time.time()))
     print('The end of this run is :', localtime)
     print('Number of calls is :', str(len(endpoints)))
-
 for _ in range(3):
     main()
 
