@@ -72,4 +72,3 @@ def main():
     print('Number of calls is :', str(len(endpoints)))
 for _ in range(3):
     main()
-
